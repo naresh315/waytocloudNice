@@ -12,6 +12,8 @@ public class MyRestContoller {
 	@RequestMapping(value = "/user/", method = RequestMethod.GET)
  	 
 	public User getUsers() {
-		return new User("Shlok","Bhabat");
+		 
+
+		return new User("Shlok", "Bhabat", "JAPAN");
 	}
 }
