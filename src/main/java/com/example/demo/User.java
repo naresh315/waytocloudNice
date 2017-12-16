@@ -21,7 +21,7 @@ public class User {
 	public void setName(String name) {
 		this.name = name;
 	}
-public String getCountry() {
+        public String getCountry() {
 		return country;
 	}
 	public void setCountry(String country) {
