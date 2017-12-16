@@ -1,0 +1,6 @@
+
+applications:
+  name: wayToCloud
+  memory: 512M
+  host: wayToCloud-first
+  path: target\wayToCloud-1-0.0.1-SNAPSHOT.jar
